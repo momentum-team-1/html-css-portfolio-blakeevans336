@@ -1,0 +1,36 @@
+header {
+    height: 200 px;
+    background-color: skyblue;
+    padding: 15 px;
+}
+
+body {
+    border: 30px solid navy;
+    border-style: outset;
+}
+
+.name {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.email {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.phone {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#index_greeting {
+    text-align: center;
+    padding: 50px;
+}
+
+#about_greeting {
+    text-align: center;
+    padding: 30px;
+}
